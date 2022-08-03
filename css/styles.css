@@ -1,0 +1,154 @@
+/********************************* tag seclectors *********************************/
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+}
+
+
+
+h1{
+    font-size: 550%;
+    color: #FC28FB;
+    margin: 3.75rem auto 0 auto;
+    font-family: Sacramento;
+}
+
+h2 {
+    font-family: Benne;
+    color: #FC28FB;
+    font-size: 200%;
+}
+
+h3 {
+    color: #c946b1;
+    font-family: Benne;
+    font-size: 200%;
+}
+
+p {
+    font-family: Montserrat, sans-serif;
+}
+
+a {
+    color: #3300ff;
+}
+a:hover {
+    color: #01ddff;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 5px;
+    border-color:#e6a8ec;
+
+}
+
+/********************************* class seclectors *********************************/
+
+.Top_container{
+    position: relative;
+    background-color: #FBCAFF;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.middle-container{
+    margin: 100px 0px;
+}
+
+.bottom-container{
+    background-color: #dd7ef2;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+.myskills {
+    width: 50%;
+    margin: 0 auto 0 auto;
+}
+
+.codeskills {
+    width: 25%; 
+}
+
+.digitalskills {
+    width: 25%; 
+}
+
+.btn {
+    background: #d610e8;
+    background-image: -webkit-linear-gradient(top, #d610e8, #6d1182);
+    background-image: -moz-linear-gradient(top, #d610e8, #6d1182);
+    background-image: -ms-linear-gradient(top, #d610e8, #6d1182);
+    background-image: -o-linear-gradient(top, #d610e8, #6d1182);
+    background-image: linear-gradient(to bottom, #d610e8, #6d1182);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #f298f5;
+    background-image: -webkit-linear-gradient(top, #f298f5, #d159de);
+    background-image: -moz-linear-gradient(top, #f298f5, #d159de);
+    background-image: -ms-linear-gradient(top, #f298f5, #d159de);
+    background-image: -o-linear-gradient(top, #f298f5, #d159de);
+    background-image: linear-gradient(to bottom, #f298f5, #d159de);
+    text-decoration: none;
+  }
+
+/********************************* id seclectors *********************************/
+
+#vec1{
+    position: relative;
+    height: 15%;
+    width: 15%;
+
+}
+
+#vec2 {
+    position: relative;
+    height: 15%;
+    width: 15%;
+    right: 10%;
+    top: 10%;
+}
+
+#vec3 {
+    position: relative;
+    height: 15%;
+    width: 15%;
+    left: 20%;
+    top: 10%;
+}
+
+#cloud {
+    position: relative;
+    height: 15%;
+    width: 15%;
+    right: 20%;
+    top: 80px;
+}
+
+#cloud1{
+    position: relative;
+    height: 15%;
+    width: 15%;
+    left: 10%;
+    top: 30px;
+}
+
+
+
+
